@@ -6,7 +6,8 @@ Welcome to **Java Programming Beginner Notes**! This repository serves as a lear
 
 ## 📌 **Explore the Wiki**  
 
-🔗 **Check out our full Wiki here:** [Java Programming Beginner Notes Wiki](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/wiki)  
+🔗 **Check out our full Wiki here:**  
+➡️ [Java Programming Beginner Notes Wiki](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/wiki)  
 
 Our Wiki is structured into **Beginner** and **Advanced** sections for smooth learning.  
 
@@ -18,15 +19,11 @@ If you're just starting out, these topics will **build a strong foundation**:
 ✅ Operators & Decision Making – **How Java Thinks & Compares Values**  
 ✅ Loops & Methods – **Making Java Work Efficiently**  
 
-Start here → [Beginner Topics](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/wiki#-beginner-topics)  
-
 ### 🔵 **Advanced Topics** (Deeper Java Concepts)  
 Once you've mastered the basics, dive into **powerful Java concepts**:  
 🚀 **Object-Oriented Programming (OOP)** – The heart of Java  
 📦 **ArrayLists & HashMaps** – Advanced data storage  
 🛠️ **Constructors & Error Handling** – Building & Debugging  
-
-Explore now → [Advanced Topics](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/wiki#-advanced-topics)  
 
 ---
 
@@ -39,12 +36,10 @@ Explore now → [Advanced Topics](https://github.com/PizzaSpark/Java-Programming
 ---
 
 ## 🚀 **Get Started**  
-1️⃣ Click here → [Visit the Wiki](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/wiki)  
-2️⃣ Pick a topic from the sidebar  
-3️⃣ Read, practice, and level up your Java skills!  
+1️⃣ Visit the **Wiki** and start learning:  
+➡️ [Java Programming Beginner Notes Wiki](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/wiki)  
 
-💡 **Found an issue or want to contribute?** Open a pull request or start a discussion!  
-
-📩 **Questions?** Feel free to reach out via [GitHub Discussions](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/discussions).  
+💡 **Have questions or found an issue?**  
+Please open a ticket in the [Issues](https://github.com/PizzaSpark/Java-Programming-Beginner-Notes/issues) section.  
 
 Happy coding! 🚀🔥  
